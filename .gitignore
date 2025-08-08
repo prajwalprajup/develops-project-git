@@ -1,0 +1,21 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor configuration
+.idea/
+.vscode/
+*.swp
+
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfplan
+.terraform/
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Log files
+*.log
